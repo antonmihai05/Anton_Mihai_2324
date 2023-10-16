@@ -1,0 +1,18 @@
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\bin\Debug\net6.0-windows\Esercizio 16 10.exe
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\bin\Debug\net6.0-windows\Esercizio 16 10.deps.json
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\bin\Debug\net6.0-windows\Esercizio 16 10.runtimeconfig.json
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\bin\Debug\net6.0-windows\Esercizio 16 10.dll
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\bin\Debug\net6.0-windows\Esercizio 16 10.pdb
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio 16 10.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio_16_10.Form1.resources
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio_16_10.Properties.Resources.resources
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio 16 10.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio 16 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio 16 10.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio 16 10.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio 16 10.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio 16 10.dll
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\refint\Esercizio 16 10.dll
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio 16 10.pdb
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\Esercizio 16 10.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio 16 10\Esercizio 16 10\obj\Debug\net6.0-windows\ref\Esercizio 16 10.dll
