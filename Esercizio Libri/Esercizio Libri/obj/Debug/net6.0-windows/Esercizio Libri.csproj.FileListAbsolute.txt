@@ -1,0 +1,17 @@
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\bin\Debug\net6.0-windows\Esercizio Libri.exe
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\bin\Debug\net6.0-windows\Esercizio Libri.deps.json
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\bin\Debug\net6.0-windows\Esercizio Libri.runtimeconfig.json
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\bin\Debug\net6.0-windows\Esercizio Libri.dll
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\bin\Debug\net6.0-windows\Esercizio Libri.pdb
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\Esercizio Libri.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\Esercizio_Libri.Form1.resources
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\Esercizio Libri.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\Esercizio Libri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\Esercizio Libri.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\Esercizio Libri.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\Esercizio Libri.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\Esercizio Libri.dll
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\refint\Esercizio Libri.dll
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\Esercizio Libri.pdb
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\Esercizio Libri.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Libri\Esercizio Libri\obj\Debug\net6.0-windows\ref\Esercizio Libri.dll
