@@ -1,0 +1,17 @@
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\bin\Debug\net6.0-windows\Esercizio Casse.exe
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\bin\Debug\net6.0-windows\Esercizio Casse.deps.json
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\bin\Debug\net6.0-windows\Esercizio Casse.runtimeconfig.json
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\bin\Debug\net6.0-windows\Esercizio Casse.dll
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\bin\Debug\net6.0-windows\Esercizio Casse.pdb
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\Esercizio Casse.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\Esercizio_Casse.Form1.resources
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\Esercizio Casse.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\Esercizio Casse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\Esercizio Casse.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\Esercizio Casse.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\Esercizio Casse.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\Esercizio Casse.dll
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\refint\Esercizio Casse.dll
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\Esercizio Casse.pdb
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\Esercizio Casse.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Desktop\Anton_Mihai_2324\Esercizio Casse\Esercizio Casse\obj\Debug\net6.0-windows\ref\Esercizio Casse.dll
